@@ -1,0 +1,18 @@
+C:\Users\DELL\Documents\Visual Studio 11\Projects\binary\binary\bin\Debug\binary.exe.config
+C:\Users\DELL\Documents\Visual Studio 11\Projects\binary\binary\bin\Debug\binary.exe
+C:\Users\DELL\Documents\Visual Studio 11\Projects\binary\binary\bin\Debug\binary.pdb
+C:\Users\DELL\Documents\Visual Studio 11\Projects\binary\binary\obj\Debug\binary.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 11\Projects\binary\binary\obj\Debug\binary.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 11\Projects\binary\binary\obj\Debug\binary.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 11\Projects\binary\binary\obj\Debug\binary.exe
+C:\Users\DELL\Documents\Visual Studio 11\Projects\binary\binary\obj\Debug\binary.pdb
+C:\Users\DELL\Documents\Visual Studio 11\Projects\binary\binary\obj\Debug\binary.Form1.resources
+D:\dincer_unal\dincer_ders notları\file_organization\file_organization_ödev\AHMET UĞUR BULUT_101180009\binary\binary\bin\Debug\binary.exe.config
+D:\dincer_unal\dincer_ders notları\file_organization\file_organization_ödev\AHMET UĞUR BULUT_101180009\binary\binary\obj\Debug\binary.exe
+D:\dincer_unal\dincer_ders notları\file_organization\file_organization_ödev\AHMET UĞUR BULUT_101180009\binary\binary\obj\Debug\binary.pdb
+D:\dincer_unal\dincer_ders notları\file_organization\file_organization_ödev\AHMET UĞUR BULUT_101180009\binary\binary\bin\Debug\binary.exe
+D:\dincer_unal\dincer_ders notları\file_organization\file_organization_ödev\AHMET UĞUR BULUT_101180009\binary\binary\bin\Debug\binary.pdb
+D:\dincer_unal\dincer_ders notları\file_organization\file_organization_ödev\AHMET UĞUR BULUT_101180009\binary\binary\obj\Debug\binary.csprojResolveAssemblyReference.cache
+D:\dincer_unal\dincer_ders notları\file_organization\file_organization_ödev\AHMET UĞUR BULUT_101180009\binary\binary\obj\Debug\binary.Form1.resources
+D:\dincer_unal\dincer_ders notları\file_organization\file_organization_ödev\AHMET UĞUR BULUT_101180009\binary\binary\obj\Debug\binary.Properties.Resources.resources
+D:\dincer_unal\dincer_ders notları\file_organization\file_organization_ödev\AHMET UĞUR BULUT_101180009\binary\binary\obj\Debug\binary.csproj.GenerateResource.Cache
